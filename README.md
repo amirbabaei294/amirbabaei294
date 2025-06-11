@@ -58,7 +58,7 @@
 
 ### 📄 Resume
 
-[View My Resume (PDF)](https://your-resume-link.com)
+[View My Resume (PDF)](./CV.pdf)
 
 ---
 
