@@ -8,10 +8,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Bachelor's in Computer Engineering from K. N. Toosi University
-- 💻 Focused on Front-End development and Game Programming
-- 📚 Self-studying modern web tech like **React**, **TypeScript**, **Next.js**
-- 🎮 Unity hobbyist — love building mobile game prototypes
+* Bachelor of Computer Engineering, K. N. Toosi University of Technology
+* Advancing proficiency in Node.js, Next.js, React, and TypeScript
+* Specializing in Front‑End Development and Unity games
+* Building mobile games using Unity and C#
 
 ---
 
