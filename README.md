@@ -18,11 +18,7 @@
 ### 🔧 Tech Stack
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff" /> </p>
 
 #### Web Development
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
