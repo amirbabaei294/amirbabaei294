@@ -40,26 +40,16 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirbabaei294&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbabaei294&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
 ### 📌 Current Learning Goals
 
 - Mastering **React** and **Next.js**
-- Building a secure browser extension with client-side encryption
 - Publishing a mobile game prototype using **Unity 3D**
 
 ---
 
 ### 📄 Resume
 
-[View My Resume (PDF)](https://your-resume-link.com) <!-- لینک واقعی رزومه‌ات را جایگزین کن -->
+[View My Resume (PDF)](https://your-resume-link.com)
 
 ---
 
