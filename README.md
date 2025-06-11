@@ -58,7 +58,7 @@
 
 ### 📄 Resume
 
-[View My Resume (PDF)](https://raw.githubusercontent.com/amirbabaei294/amirbabaei294/blob/main/README.md)
+[View My Resume (PDF)](https://github.com/amirbabaei294/amirbabaei294/blob/main/README.md)
 
 ---
 
