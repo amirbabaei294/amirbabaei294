@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Amir Reza Babaei 👋</h1>
-
 <p align="center">
-  Front-End Developer | Unity Enthusiast | Computer Engineering Graduate
+  Computer Engineering Graduate | Exploring Front-End Development | Unity Game Developer
 </p>
+
 
 ---
 
 ### 👨‍💻 About Me
 
-* Bachelor of Computer Engineering, K. N. Toosi University of Technology
-* Advancing proficiency in Node.js, Next.js, React, and TypeScript
-* Specializing in Front‑End Development and Unity games
-* Building mobile games using Unity and C#
+* Bachelor’s degree in Computer Engineering from K. N. Toosi University of Technology
+* Practical experience with Express.js in frontend development
+* Familiar with React and Next.js through self-learning
+* Interested in front-end development and Unity game programming
+* Developed a mobile game using Unity and C#
 
 ---
 
