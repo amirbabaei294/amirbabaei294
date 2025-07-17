@@ -51,9 +51,8 @@
 ---
 
 ### 📌 Current Learning Goals
-
-- Publishing a mobile game using **Unity 3D**
-- Mastering **React** & **Next.js** & **Node.js**
+- Preparing to publish a mobile game develped by **Unity 3D**
+- Deepening knowledge of **React** & **Next.js** & **Node.js**
 
 ---
 
