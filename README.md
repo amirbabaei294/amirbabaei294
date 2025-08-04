@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff" alt="C" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff" alt="C#" />
 </p>
 
@@ -47,12 +46,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=fff" alt="Unity" />
 </p>
 
-
----
-
-### 📌 Current Learning Goals
-- Preparing to publish a mobile game develped by **Unity 3D**
-- Deepening knowledge of **React** & **Next.js** & **Node.js**
 
 ---
 
