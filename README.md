@@ -10,7 +10,6 @@
 * Self-studied CCNA (ICND1), Network+, and LPIC-1
 * Familiar with React and Next.js through self-learning
 * Interested in computer networks, system administration, and automation scripting
-* 
 
 ---
 
