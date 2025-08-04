@@ -2,6 +2,8 @@
   Computer Engineering Graduate | Aspiring Network Engineer | Front-End Experience
 </p>
 
+---
+
 * Bachelor’s degree in Computer Engineering from K. N. Toosi University of Technology
 * Practical experience with Express.js, EJS, and CSS in front-end development
 * Self-studied CCNA (ICND1), Network+, and LPIC-1
