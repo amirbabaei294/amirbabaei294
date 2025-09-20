@@ -1,5 +1,5 @@
 <p align="center">
-  Computer Engineering Graduate | Aspiring Network Engineer | Front-End Experience
+  Computer Engineering Graduate | Aspiring Network Engineer | Front-End Developer
 </p>
 
 ---
@@ -7,9 +7,9 @@
 ### 👨‍💻 About Me
 * Bachelor’s degree in Computer Engineering from K. N. Toosi University of Technology
 * Practical experience with Express.js, EJS, and CSS in front-end development
-* Self-studied CCNA (ICND1), Network+, and LPIC-1
+* Self-studied CCNA (ICND1), Network+, LPIC-1, and currently learning Zabbix
 * Familiar with React and Next.js through self-learning
-* Interested in computer networks, system administration, and automation scripting
+* Interested in computer networks, system administration, and network monitoring
 
 ---
 
@@ -37,17 +37,24 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
 </p>
 
+### 🖧 Networking
+<p>
+  <img src="https://img.shields.io/badge/CCNA-1F73B7?style=for-the-badge&logo=cisco&logoColor=fff" alt="CCNA" />
+  <img src="https://img.shields.io/badge/Network%2B-FF6A00?style=for-the-badge&logo=compTIA&logoColor=fff" alt="Network+" />
+  <img src="https://img.shields.io/badge/LPIC-1-009933?style=for-the-badge&logo=linux&logoColor=fff" alt="LPIC-1" />
+  <img src="https://img.shields.io/badge/Zabbix-0C66A1?style=for-the-badge&logo=zabbix&logoColor=fff" alt="Zabbix" />
+</p>
+
 ### 🎮 Game Dev
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=fff" alt="Unity" />
 </p>
 
-
 ---
 
 ### 📄 Resume
 
-[View My Resume (PDF)](https://raw.githubusercontent.com/amirbabaei294/amirbabaei294/main/AmirBabaei.pdf)
+[View My Resume (PDF)](https://raw.githubusercontent.com/amirbabaei294/amirbabaei294/main/AmirBabaei_CV.pdf)
 
 ---
 
