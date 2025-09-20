@@ -32,17 +32,16 @@
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js" />
 </p>
 
-### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
-</p>
-
 ### 🖧 Networking
 <p>
   <img src="https://img.shields.io/badge/CCNA-1F73B7?style=for-the-badge&logoColor=fff" alt="CCNA" />
   <img src="https://img.shields.io/badge/Network%2B-FF6A00?style=for-the-badge&logoColor=fff" alt="Network+" />
-  <img src="https://img.shields.io/badge/LPIC-1-009933?style=for-the-badge&logoColor=fff" alt="LPIC-1" />
   <img src="https://img.shields.io/badge/Zabbix-0C66A1?style=for-the-badge&logoColor=fff" alt="Zabbix" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
 </p>
 
 ### 🎮 Game Dev
