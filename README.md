@@ -39,10 +39,10 @@
 
 ### 🖧 Networking
 <p>
-  <img src="https://img.shields.io/badge/CCNA-1F73B7?style=for-the-badge&logo=cisco&logoColor=fff" alt="CCNA" />
-  <img src="https://img.shields.io/badge/Network%2B-FF6A00?style=for-the-badge&logo=compTIA&logoColor=fff" alt="Network+" />
-  <img src="https://img.shields.io/badge/LPIC-1-009933?style=for-the-badge&logo=linux&logoColor=fff" alt="LPIC-1" />
-  <img src="https://img.shields.io/badge/Zabbix-0C66A1?style=for-the-badge&logo=zabbix&logoColor=fff" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/CCNA-1F73B7?style=for-the-badge&logoColor=fff" alt="CCNA" />
+  <img src="https://img.shields.io/badge/Network%2B-FF6A00?style=for-the-badge&logoColor=fff" alt="Network+" />
+  <img src="https://img.shields.io/badge/LPIC-1-009933?style=for-the-badge&logoColor=fff" alt="LPIC-1" />
+  <img src="https://img.shields.io/badge/Zabbix-0C66A1?style=for-the-badge&logoColor=fff" alt="Zabbix" />
 </p>
 
 ### 🎮 Game Dev
