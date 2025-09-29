@@ -8,7 +8,7 @@
 * Bachelor’s degree in Computer Engineering from K. N. Toosi University of Technology
 * Practical experience with Express.js, EJS, and CSS in front-end development
 * Self-studied CCNA (ICND1), Network+, LPIC-1, and currently learning Zabbix
-* Familiar with React and Next.js through self-learning
+* Familiar with React and Next.js
 * Interested in computer networks, system administration, and network monitoring
 
 ---
