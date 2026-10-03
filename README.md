@@ -1,53 +1,66 @@
 <p align="center">
-  Computer Engineering Graduate | Aspiring Network Engineer | Front-End Developer
+  <strong>Cybersecurity | SOC | Endpoint Security | Networking</strong>
+</p>
+
+<p align="center">
+  Computer Engineering Graduate focused on cybersecurity, endpoint security, and security operations.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-* Bachelor’s degree in Computer Engineering from K. N. Toosi University of Technology
-* Practical experience with Express.js, EJS, and CSS in front-end development
-* Self-studied CCNA (ICND1), Network+, LPIC-1, and currently learning Zabbix
-* Familiar with React and Next.js
-* Interested in computer networks, system administration, and network monitoring
+
+- Bachelor's degree in Computer Engineering from K. N. Toosi University of Technology
+- Technical support experience in endpoint security and antivirus products
+- Hands-on experience with Kaspersky security solutions and familiarity with ESET PROTECT
+- Familiar with EDR concepts and security monitoring workflows
+- Strong foundation in computer networking, Windows, and Linux
+- Currently focused on developing practical skills for SOC and cybersecurity roles
+- Software development experience with JavaScript, TypeScript, Python, and Android
 
 ---
 
-### 💻 Languages
+### 🛡️ Cybersecurity
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff" alt="C#" />
+  <img src="https://img.shields.io/badge/Endpoint%20Security-333?style=for-the-badge" alt="Endpoint Security" />
+  <img src="https://img.shields.io/badge/EDR-333?style=for-the-badge" alt="EDR" />
+  <img src="https://img.shields.io/badge/Kaspersky-333?style=for-the-badge" alt="Kaspersky" />
+  <img src="https://img.shields.io/badge/ESET-333?style=for-the-badge" alt="ESET" />
+  <img src="https://img.shields.io/badge/SOC-333?style=for-the-badge" alt="SOC" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-333?style=for-the-badge" alt="MITRE ATT&CK" />
 </p>
 
-### 🎨 Front-End
+### 🖧 Networking & Systems
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" alt="Figma" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Networking-333?style=for-the-badge" alt="Networking" />
+  <img src="https://img.shields.io/badge/Windows%20Server-333?style=for-the-badge" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=fff" alt="Linux" />
+  <img src="https://img.shields.io/badge/CCNA-333?style=for-the-badge" alt="CCNA" />
+  <img src="https://img.shields.io/badge/Zabbix-333?style=for-the-badge" alt="Zabbix" />
 </p>
 
-### 🖧 Networking
+### 💻 Development
+
 <p>
-  <img src="https://img.shields.io/badge/CCNA-1F73B7?style=for-the-badge&logoColor=fff" alt="CCNA" />
-  <img src="https://img.shields.io/badge/Network%2B-FF6A00?style=for-the-badge&logoColor=fff" alt="Network+" />
-  <img src="https://img.shields.io/badge/Zabbix-0C66A1?style=for-the-badge&logoColor=fff" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Android-333?style=for-the-badge&logo=android&logoColor=fff" alt="Android" />
+  <img src="https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
 </p>
 
-### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
-</p>
+---
 
-### 🎮 Game Dev
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=fff" alt="Unity" />
-</p>
+### 🎯 Current Focus
+
+- Security Operations (SOC)
+- Endpoint Detection & Response (EDR)
+- SIEM and security monitoring
+- Network security
+- Windows & Linux administration
+- Practical cybersecurity projects
 
 ---
 
@@ -61,3 +74,4 @@
 
 - Email: [amirbabaei294@gmail.com](mailto:amirbabaei294@gmail.com)
 - GitHub: [amirbabaei294](https://github.com/amirbabaei294)
+
